@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 444.1000061035156
   },
   "right": {
     "id": "329916bd4657ddf6",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "404e5769aecf176c",
+  "active": "968f66496a64389f",
   "lastOpenFiles": [
     "Лекции/01. Въведение/01. Каква е ролята на системния администратор.md",
     "Лекции/01. Въведение",
