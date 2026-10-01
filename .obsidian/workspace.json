@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5,
-    "collapsed": true
+    "width": 554.5
   },
   "right": {
     "id": "329916bd4657ddf6",
@@ -190,21 +189,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e542dab22c28a8c8",
+  "active": "968f66496a64389f",
   "lastOpenFiles": [
-    "Изображения/Pasted image 20261001122916.png",
-    "Изображения/Pasted image 20261001122729.png",
-    "Изображения/Pasted image 20261001122405.png",
-    "Изображения/Pasted image 20261001122108.png",
-    "Изображения/Pasted image 20261001120454.png",
+    "Изображения/18.png",
+    "Изображения/17.png",
+    "Изображения/16.png",
+    "Изображения/15.png",
+    "Изображения/14.png",
+    "Изображения/13.png",
     "Лекции/03. Windows Server 2025/06. Създаване на лабораторна среда.md",
     "Лекции/03. Windows Server 2025/07. Инсталация на Windows Server 2025.md",
-    "Изображения/Pasted image 20261001120157.png",
-    "Изображения/Pasted image 20261001120046.png",
-    "Изображения/Pasted image 20261001120036.png",
-    "Изображения/Pasted image 20261001115902.png",
-    "Изображения/Pasted image 20261001115729.png",
-    "Изображения/Pasted image 20261001115412.png",
+    "Изображения/12.png",
+    "Изображения/11.png",
+    "Изображения/10.png",
+    "Изображения/9.png",
+    "Изображения/8.png",
     "Лекции/03. Windows Server 2025/05. Системни изисквания.md",
     "Лекции/03. Windows Server 2025/04. Какво ново в WIndows Server 2025.md",
     "Лекции/03. Windows Server 2025/03. Какво е Windows Server 2025.md",

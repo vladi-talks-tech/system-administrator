@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Лекции/03. Windows Server 2025",
-  "attachmentFolderPath": "Изображения"
+  "attachmentFolderPath": "Изображения",
+  "alwaysUpdateLinks": true
 }
