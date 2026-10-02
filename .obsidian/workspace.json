@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48b8ea2cbd98f5e1",
+            "id": "9f76a15d267e0568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/03. Windows Server 2025/10. Инсталиране и конфигуриране на DNS  и Active Directory домейн услуги..md",
+                "file": "Лекции/03. Windows Server 2025/11. Лаборатория - създаване на DNS записи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Инсталиране и конфигуриране на DNS  и Active Directory домейн услуги."
+              "title": "11. Лаборатория - създаване на DNS записи"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5,
-    "collapsed": true
+    "width": 554.5
   },
   "right": {
     "id": "329916bd4657ddf6",
@@ -190,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48b8ea2cbd98f5e1",
+  "active": "968f66496a64389f",
   "lastOpenFiles": [
+    "Лекции/03. Windows Server 2025/10. Инсталиране и конфигуриране на DNS  и Active Directory домейн услуги..md",
+    "Лекции/03. Windows Server 2025/11. Лаборатория - създаване на DNS записи.md",
     "Изображения/Pasted image 20261002113527.png",
     "Изображения/Pasted image 20261002113340.png",
     "Изображения/Pasted image 20261002113207.png",
@@ -202,9 +203,7 @@
     "Изображения/Pasted image 20261001164144.png",
     "Изображения/Pasted image 20261001164016.png",
     "Изображения/Pasted image 20261001163858.png",
-    "Изображения/Pasted image 20261001163724.png",
     "Лекции/03. Windows Server 2025/09. Разбиране на роли спрямо характеристики.md",
-    "Лекции/03. Windows Server 2025/10. Инсталиране и конфигуриране на DNS  и Active Directory домейн услуги..md",
     "Лекции/03. Windows Server 2025/08. Лаборатория - първи настройки и основна конфугурация.md",
     "Лекции/03. Windows Server 2025/07. Инсталация на Windows Server 2025.md",
     "Лекции/03. Windows Server 2025/06. Създаване на лабораторна среда.md",
