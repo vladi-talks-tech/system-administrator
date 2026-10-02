@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f76a15d267e0568",
+            "id": "e92b5ae08401a1bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/03. Windows Server 2025/11. Лаборатория - създаване на DNS записи.md",
+                "file": "Лекции/03. Windows Server 2025/12. Лаборатория - създаване и управление на потребители и групи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Лаборатория - създаване на DNS записи"
+              "title": "12. Лаборатория - създаване и управление на потребители и групи"
             }
           }
         ]
@@ -190,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f76a15d267e0568",
+  "active": "e92b5ae08401a1bd",
   "lastOpenFiles": [
+    "Лекции/03. Windows Server 2025/11. Лаборатория - създаване на DNS записи.md",
+    "Лекции/03. Windows Server 2025/12. Лаборатория - създаване и управление на потребители и групи.md",
     "Изображения/Pasted image 20261002141420.png",
     "Изображения/Pasted image 20261002141247.png",
     "Изображения/Pasted image 20261002141207.png",
@@ -202,9 +204,7 @@
     "Изображения/Pasted image 20261002121557.png",
     "Изображения/Pasted image 20261002121447.png",
     "Изображения/Pasted image 20261002121328.png",
-    "Изображения/Pasted image 20261002120726.png",
     "Лекции/03. Windows Server 2025/10. Инсталиране и конфигуриране на DNS  и Active Directory домейн услуги..md",
-    "Лекции/03. Windows Server 2025/11. Лаборатория - създаване на DNS записи.md",
     "Лекции/03. Windows Server 2025/09. Разбиране на роли спрямо характеристики.md",
     "Лекции/03. Windows Server 2025/08. Лаборатория - първи настройки и основна конфугурация.md",
     "Лекции/03. Windows Server 2025/07. Инсталация на Windows Server 2025.md",
