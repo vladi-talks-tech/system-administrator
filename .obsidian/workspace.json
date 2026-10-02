@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 554.5,
+    "collapsed": true
   },
   "right": {
     "id": "329916bd4657ddf6",
@@ -189,18 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "968f66496a64389f",
+  "active": "9f76a15d267e0568",
   "lastOpenFiles": [
     "Лекции/03. Windows Server 2025/10. Инсталиране и конфигуриране на DNS  и Active Directory домейн услуги..md",
     "Лекции/03. Windows Server 2025/11. Лаборатория - създаване на DNS записи.md",
-    "Изображения/Pasted image 20261002113527.png",
-    "Изображения/Pasted image 20261002113340.png",
-    "Изображения/Pasted image 20261002113207.png",
-    "Изображения/Pasted image 20261002113101.png",
-    "Изображения/Pasted image 20261002112718.png",
-    "Изображения/Pasted image 20261002112411.png",
-    "Изображения/Pasted image 20261001164335.png",
-    "Изображения/Pasted image 20261001164144.png",
+    "Изображения/58.png",
+    "Изображения/57.png",
+    "Изображения/56.png",
+    "Изображения/55.png",
+    "Изображения/54.png",
+    "Изображения/53.png",
+    "Изображения/52.png",
+    "Изображения/51.png",
     "Изображения/50.png",
     "Изображения/49.png",
     "Лекции/03. Windows Server 2025/09. Разбиране на роли спрямо характеристики.md",
